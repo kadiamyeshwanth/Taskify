@@ -29,7 +29,7 @@ You need to have Node.js and npm (Node Package Manager) installed on your system
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/taskify.git](https://github.com/your-username/taskify.git)
+    git clone [https://github.com/kadiamyeshwanth/taskify.git](https://github.com/kadiamyeshwanth/taskify.git)
     ```
 
 2.  **Navigate to the project directory:**
